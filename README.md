@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo João Seide, tenho 18 anos e sou de Santa Catarina, Brasil. Estou vusrando o ensino médio com técnico em Desenvolvimento de Sistemas na escola Cedup Hermann Hering.
+Me chamo João Seide, tenho 18 anos e sou de Santa Catarina, Brasil. Estou estudando o ensino médio com técnico em Desenvolvimento de Sistemas na escola Cedup Hermann Hering.
 
 
 ### Linguagens e Tecnologias
