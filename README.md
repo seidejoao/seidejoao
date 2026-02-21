@@ -80,7 +80,7 @@ Me chamo João Seide, tenho 18 anos e sou de Santa Catarina, Brasil. Estou estud
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="github-readme-stats-ten-psi-24.vercel.app/api?username=seidejoao&theme=tokyonight" 
+      src="github-readme-stats-ifnxp7fxw-seidejoaos-projects.vercel.app/api?username=seidejoao&theme=tokyonight" 
   />
 
 </p>
