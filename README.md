@@ -71,12 +71,12 @@ Me chamo João Seide, tenho 18 anos e sou de Santa Catarina, Brasil. Estou estud
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://raw.githubusercontent.com/seidejoao/github-stats/master/generated/overview.svg#gh-dark-mode-only" 
+      src="![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)" 
   />
   <img 
       align="left" 
       alt="Top Langs" 
       height="200" 
-      src="https://raw.githubusercontent.com/seidejoao/github-stats/master/generated/languages.svg#gh-dark-mode-only" 
+      src="![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)" 
   />
 </p>
